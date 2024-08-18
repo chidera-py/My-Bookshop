@@ -1,0 +1,21 @@
+title,isbn,author,stock_level,price,genre,description,current_rating,borrowed_count,publisher,publication_date,language,location
+The Enchanted Forest,978-3-16-148410-0,Alice Johnson,12,15.99,Fantasy,A magical journey through a mystical forest.,4.7,3,Enchant Press,5/15/23,English,Shelf 3A
+Secrets of the Ancient World,978-1-234-56789-7,John Smith,8,22.5,Adventure,An epic quest uncovering lost secrets.,4.3,1,Adventure House,11/30/22,English,Shelf 2B
+Adventures in Wonderland,978-0-12-345678-9,Emma Wilson,25,9.75,Fantasy,A whimsical adventure in a land of wonder.,4.8,5,Fantasy Works,7/22/21,English,Shelf 1A
+The Mysterious Island,978-3-16-148410-5,Michael Brown,5,19.99,Mystery,A thrilling tale of discovery on a remote island.,4.6,2,Island Tales,1/10/20,English,Shelf 4C
+The Last Kingdom,978-0-14-017739-8,Olivia Davis,30,13.25,Historical Fiction,The story of a fallen empire and its last defenders.,4.4,0,Empire Publishing,8/17/19,English,Shelf 2A
+The Hidden Treasure,978-1-567-89012-3,David Lee,7,17.5,Adventure,A daring quest for a lost treasure.,4.2,3,Quest Books,4/5/22,English,Shelf 5B
+Shadows Over the Hills,978-2-345-67891-2,Sophia Martinez,15,21,Thriller,A gripping story of secrets and danger in the hills.,4.5,4,Thriller Zone,11/23/21,English,Shelf 3B
+The Forgotten City,978-0-23-456789-4,James Taylor,11,25.99,Fantasy,The discovery of a city lost to time.,4.6,1,Lost World Publications,6/18/22,English,Shelf 4A
+Echoes of the Past,978-3-12-345678-6,Mia Anderson,20,14.75,Historical Fiction,A narrative uncovering echoes from history.,4.3,0,Time Tales,1/12/23,English,Shelf 2C
+The Secret Garden,978-0-01-234567-8,Lucas Scott,6,16,Classic,A classic story of renewal and discovery.,4.9,1,Classic Reads,9/30/21,English,Shelf 1B
+The Witch's Spell,978-1-23-456789-0,Isabella Clark,18,20.5,Fantasy,A tale of magic and enchantment.,4.4,0,Magic House,12/20/20,English,Shelf 5A
+Quest for the Golden Key,978-4-56-789012-3,Ethan Harris,9,12.99,Adventure,The search for a legendary golden key.,4.2,2,Adventure Quest,7/1/21,English,Shelf 3D
+The Lost Chronicles,978-3-21-098765-4,Ava Wilson,14,23.75,Fantasy,Chronicles of an ancient and mysterious realm.,4.7,0,Chronicle Publishers,10/11/22,English,Shelf 4B
+Beyond the Horizon,978-0-98-765432-1,Oliver Walker,10,18.2,Science Fiction,A journey beyond known frontiers.,4.3,3,Futuristic Books,2/14/23,English,Shelf 5C
+Whispers in the Wind,978-2-34-567890-1,Charlotte White,13,11.9,Romance,A romantic tale set against a beautiful backdrop.,4.6,2,Romance Reads,5/27/21,English,Shelf 2D
+The Alchemist's Journey,978-5-67-890123-4,Amelia King,17,28,Fantasy,An alchemist’s quest for ultimate knowledge.,4.8,0,Alchemy Publishing,3/9/22,English,Shelf 6A
+Mysteries of the Deep,978-1-23-456789-2,William Young,8,24.5,Thriller,Deep-sea mysteries and adventure.,4.4,1,Deep Blue Books,8/19/21,English,Shelf 3E
+Chronicles of the Lost Realm,978-3-45-678901-2,Grace Adams,21,29.99,Fantasy,Legends from a hidden magical realm.,4.7,0,Realm Press,4/26/23,English,Shelf 4D
+The Cursed Castle,978-0-56-789012-3,Benjamin Wright,7,30,Horror,A horror story set in a cursed castle.,4.1,2,Horror House,10/15/20,English,Shelf 6B
+Legends of the Hidden Realm,978-2-34-567891-3,Grace Adams,19,26.75,Fantasy,Legends from a hidden magical realm.,4.5,1,Hidden Realm Publishing,12/2/21,English,Shelf 5D
